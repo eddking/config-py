@@ -1,0 +1,5 @@
+
+*.pyc
+
+venv/
+pip-delete-this-directory.txt
