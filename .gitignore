@@ -2,4 +2,5 @@
 *.pyc
 
 venv/
+config.egg-info/
 pip-delete-this-directory.txt
